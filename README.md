@@ -17,6 +17,8 @@
   Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services.
     1.clone the repo: git clone https://github.com/your_username_/Project-Name.git 
     2.Install npm packages: npm install
+    3.To Play the game download the project as zip and extract the files.
+    4.After that open your extracted file find index.html double click it to play the game
  # Code Functioning
    Open the game.js file
    * You can see a function named nextSequence() which is responsible for producing random number,using the number we choose random colour from the array declared
