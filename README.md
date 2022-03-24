@@ -15,6 +15,7 @@
   This game challenge is build using jQuery (javascript code reduction) ,Html ,css. If you have a vist in game.js file it mostly contains functions and array elements
 # Installation
   Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services.
+  
     1.clone the repo: git clone https://github.com/your_username_/Project-Name.git 
     
     2.Install npm packages: npm install
