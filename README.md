@@ -24,8 +24,7 @@
    * When the game get started you can see a pop out of the coloured button and a sound
    * If you click the button which produced the sound, then the function click gets the id of the button and copares wheather the randomcolor and the user clicked colur is equal if equal it again calls the nexxtSequence() method and the game continues.
  # Contributing
-    Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
-
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement". Don't forget to give the project a star! Thanks again!
 
 Fork the Project:
